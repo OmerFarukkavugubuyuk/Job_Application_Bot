@@ -1,0 +1,17 @@
+# Secrets and personal data
+.env
+master_cv.json
+
+# Bot outputs / logs / screenshots
+debug/
+job_bot.log
+cv.pdf
+cv.md
+cover_letter.pdf
+cover_letter.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

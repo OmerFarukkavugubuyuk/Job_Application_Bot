@@ -1,0 +1,58 @@
+{
+  "name": "Jane Doe",
+  "contact": {
+    "location": "City, ST",
+    "email": "jane.doe@example.com",
+    "linkedin": "https://www.linkedin.com/in/your-profile/",
+    "github": "https://github.com/your-username"
+  },
+  "summary": "Software Engineering student with hands-on experience building web and mobile applications.",
+  "skills": {
+    "programming_languages": ["Python", "JavaScript", "Java"],
+    "frameworks_and_platforms": ["React", "Flask", "Git"],
+    "other_skills": ["Full-Stack Web Development", "REST APIs"],
+    "spoken_languages": ["English (Native)"]
+  },
+  "experience": [
+    {
+      "role": "Software Developer Intern",
+      "company": "Example Company",
+      "dates": "06/2025 - 08/2025",
+      "bullets": [
+        "Built a feature that did X using Python and Flask",
+        "Worked with a team of engineers and used Git for version control"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Example Web App",
+      "link": "https://example.com/",
+      "bullets": [
+        "Designed and built a web application that does X",
+        "Developed with React and a REST API"
+      ]
+    },
+    {
+      "name": "Additional Independent Projects (C#)",
+      "items": [
+        "Project One - short description",
+        "Project Two - short description",
+        "Project Three - short description",
+        "Project Four - short description",
+        "Project Five - short description"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Example University",
+      "location": "City, ST",
+      "dates": "2023 - 2027",
+      "degree": "B.S. in Computer Science"
+    }
+  ],
+  "certifications": [
+    "Example Certification"
+  ]
+}
